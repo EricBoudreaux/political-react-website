@@ -2,7 +2,7 @@ import React from 'react'
 
 const DonateBar = () => {
   return (
-    <div className='max-w-[1440px] bg-[var(--background-light)] py-12'>
+    <div className='bg-[var(--background-light)] py-12'>
         <div className='w-full h-full flex flex-col lg:flex-row lg:items-center lg:justify-around px-3 relative'>
             <h1 className='text-[var(--primary-blue)] text-3xl font-semibold text-center sm:text-start lg:pt-5 lg:mr-5'>DONATE <span className='text-[var(--primary-red)] font-semibold'>TODAY</span></h1>
             <div className=''>
