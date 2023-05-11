@@ -9,7 +9,7 @@ import {
 
 const Footer = () => {
   return (
-    <div className='max-w-[1440px] bg-[var(--background-dark)] px-14 py-12'>
+    <div className='bg-[var(--background-dark)] px-14 py-12'>
         <div className='w-full h-full'>
             <div className='grid grid-cols-2 lg:grid-cols-4'>
 
