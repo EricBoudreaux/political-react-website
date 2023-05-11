@@ -31,7 +31,7 @@ const [nav, setNav] = useState(false)
 
     
   return (
-    <div className='max-w-[1440px] h-[85px]'>
+    <div className='h-[85px]'>
         <div className='w-full h-full bg-[var(--primary-blue)]'>
 
             <div className='w-full flex justify-between px-4 lg:px-10 items-center'>
