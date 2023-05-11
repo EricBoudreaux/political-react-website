@@ -4,7 +4,7 @@ import { AiOutlinePlus, AiOutlineInstagram } from 'react-icons/ai'
 
 const PictureBar = () => {
   return (
-    <div className='max-w-[1440px]'>
+    <div className=''>
         <div className='w-full h-full'>
             <div className='grid grid-cols-2 grid-rows-2 md:grid-cols-4'>
                 
