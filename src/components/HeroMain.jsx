@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div name='hero' className='max-w-[1440px]'>
+    <div name='hero' className=''>
       <div className='w-full h-full'>
         <div className='absolute w-full top-[33%] text-center mx-auto'>
           <h3 className='text-white text-2xl'>Candidates 2022</h3>
