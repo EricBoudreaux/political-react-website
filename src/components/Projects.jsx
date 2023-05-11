@@ -33,7 +33,7 @@ const Projects = () => {
     ];
 
   return (
-    <div className='max-w-[1440px]'>
+    <div className=''>
         <div className='w-full h-full px-5 py-12'>
             <div className='flex justify-between lg:px-24'>
                 <div className=''>
