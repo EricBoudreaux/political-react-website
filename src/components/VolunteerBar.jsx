@@ -6,7 +6,7 @@ import { TiArrowRightThick } from 'react-icons/ti'
 
 const VolunteerBar = () => {
   return (
-    <div className='max-w-[1440px] relative'>
+    <div className='relative'>
         <div className='w-full h-[435px] volunteer-bg bg-bottom bg-fixed bg-no-repeat bg-cover'>
             <div className='flex flex-col py-24 justify-center items-center  text-center text-white '>
             <GiHand className='z-40' size={80} />
