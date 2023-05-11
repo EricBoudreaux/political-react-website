@@ -7,7 +7,7 @@ import { BsCalendar,
 
 const Skills = () => {
   return (
-    <div className='max-w-[1440px]'>
+    <div className=''>
         <div className='w-full h-full py-12'>
             <div className='text-center'>
                 <h1 className='text-4xl text-[var(--primary-blue)] font-semibold'>OUR ADVANCED <span className='text-[var(--primary-red)]'>SKILLS</span></h1>
