@@ -44,7 +44,7 @@ useEffect(() => {
   return (
 
     <div className={scrollPosition < 350  ? 'z-50 w-full fixed right-0 top-[-20%] ease-in duration-300' : 'z-50 w-full fixed right-0 top-0 ease-in duration-300'}>
-    <div className='max-w-[1440px] h-[85px]'>
+    <div className='h-[85px]'>
         <div className='w-full h-full bg-[var(--primary-blue)]'>
 
             <div className='w-full flex justify-between px-4 lg:px-10 items-center'>
