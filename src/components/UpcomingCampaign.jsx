@@ -2,7 +2,7 @@ import React from 'react'
 
 const UpcomingCampaign = () => {
   return (
-    <div className='max-w-[1440px] bg-[var(--background-light)]'>
+    <div className='bg-[var(--background-light)]'>
         <div className='py-32'>
             <div className='text-center px-8 pb-20'>
                 <h1 className='text-5xl text-[var(--primary-blue)] font-semibold uppercase pb-6'>upcoming <span className='text-[var(--primary-red)]'>campaign</span></h1>
