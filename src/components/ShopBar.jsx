@@ -25,7 +25,7 @@ const ShopBar = () => {
                 <div className='shadow-lg'>
                     <div className='relative group'>
                         <img src="https://assets.website-files.com/62924709f483531978d6a5bc/62a854e3d0fc83c4a520eeb1_American%20Flags%20and%20Pins%20(2).jpg" alt="/" />
-                        <div className='btn-blue absolute left-[35%] md:left-[40%] bottom-[45%] opacity-0 group-hover:opacity-100 group-hover:bottom-[50%] ease-in duration-300'>
+                        <div className='btn-blue absolute left-[35%] md:left-[38%] bottom-[45%] opacity-0 group-hover:opacity-100 group-hover:bottom-[50%] ease-in duration-300'>
                             <button className=''>Add To Cart</button>
                         </div>
                     </div>
@@ -37,7 +37,7 @@ const ShopBar = () => {
                 <div className='shadow-lg'>
                     <div className='relative group'>
                         <img src="https://assets.website-files.com/62924709f483531978d6a5bc/62a854cab98976c34689c9ce_AF%20main%20image%20(2).jpg" alt="/" />
-                        <div className='btn-blue absolute left-[35%] md:left-[45%] bottom-[45%] opacity-0 group-hover:opacity-100 group-hover:bottom-[50%] ease-in duration-300'>
+                        <div className='btn-blue absolute left-[35%] md:left-[38%] bottom-[45%] opacity-0 group-hover:opacity-100 group-hover:bottom-[50%] ease-in duration-300'>
                             <button className=''>Add To Cart</button>
                         </div>
                     </div>
