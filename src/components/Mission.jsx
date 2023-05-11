@@ -6,7 +6,7 @@ import { TiArrowRightThick } from 'react-icons/ti'
 
 const Mission = () => {
   return (
-    <div className='max-w-[1440px] relative'>
+    <div className='relative'>
         <div className='flex justify-between bg-[var(--primary-blue)] md:bg-transparent py-16'>
             <div className='px-4 text-center md:flex justify-center items-center lg:mx-auto z-40'>
                 <img className='pb-16 max-w-[740px] md:max-w-[640px] w-full md:w-[50%] md:rounded-md' src="https://assets.website-files.com/62924709f48353c6d6d6a5b9/629770ac764fd14991aa538e_Banner%20Mission%26Vision.jpg" alt="/" />
