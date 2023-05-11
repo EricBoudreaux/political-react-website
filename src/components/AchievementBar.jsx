@@ -3,7 +3,7 @@ import CountUp from 'react-countup';
 
 const AchievementBar = () => {
   return (
-    <div className='max-w-[1440px]  bg-[var(--primary-blue)]'>
+    <div className='bg-[var(--primary-blue)]'>
         <div className='flex justify-evenly px-6 py-16'>
 
             <div>
