@@ -4,7 +4,7 @@ const Hero = ({ heroImage, heroTitle, heroSubTitle  }) => {
 
 
   return (
-    <div name='hero' className='max-w-[1440px]'>
+    <div name='hero' className=''>
       <div className='w-full h-full relative'>
         <div className='absolute w-full top-[28%] text-center mx-auto z-10'>
           <h3 className='text-white text-2xl'>{heroSubTitle}</h3>
