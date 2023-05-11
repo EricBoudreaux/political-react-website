@@ -3,7 +3,7 @@ import React from 'react'
 
 const Mission = () => {
   return (
-    <div className='max-w-[1440px] relative'>
+    <div className='relative'>
         <div className=' flex justify-between md:bg-transparent py-16'>
             <div className='px-4 text-center md:flex justify-center items-center lg:mx-auto z-40'>
                 <div className='md:px-24'>
